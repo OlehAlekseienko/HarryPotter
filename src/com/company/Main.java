@@ -90,6 +90,6 @@ public class Main {
         for (int i = 10; i < 21; i+= 2) {
             System.out.print(words[i] + " ");
         }
-
+        //this task is over, lets go to another one
     }
 }
